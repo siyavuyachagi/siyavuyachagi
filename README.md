@@ -31,29 +31,6 @@
 
 ---
 
-```mermaid
-mindmap
-  root((CeeJay))
-    C# / .NET
-      ASP.NET Core
-      Blazor
-      MAUI
-      WPF
-    Frontend
-      Vue 3
-      Nuxt 3
-      TypeScript
-      Node.js
-    Styling
-      TailwindCSS
-      Bootstrap
-    DevOps & Tools
-      Azure
-      Git & GitHub
-      Linux
-```
----
-
 ### 🤝 Let's connect
 <p align="left">
   <a href="mailto:syavuya08@gmail.com">
