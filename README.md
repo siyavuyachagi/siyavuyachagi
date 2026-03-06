@@ -3,8 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=siyavuyachagi&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views" />
   <img src="https://img.shields.io/github/followers/siyavuyachagi?style=flat-square&color=0ea5e9&label=FOLLOWERS" alt="followers" />
   <img src="https://img.shields.io/github/stars/siyavuyachagi?style=flat-square&color=0ea5e9&label=STARS&affiliations=OWNER" alt="stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/siyavuyachagi&query=$.total.lastYear&style=flat-square&color=0ea5e9&label=CONTRIBUTIONS+THIS+YEAR" alt="contributions" />
-  <img src="https://img.shields.io/github/commit-activity/y/siyavuyachagi/siyavuyachagi?style=flat-square&color=0ea5e9&label=COMMITS+THIS+YEAR" alt="commits" />
+<img src="https://github-readme-stats.vercel.app/api?username=siyavuyachagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <h1 align="center">
