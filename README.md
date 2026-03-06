@@ -32,11 +32,23 @@
 ---
 
 ### 🤝 Let's connect
-<p align="left">
-  <a href="mailto:syavuya08@gmail.com">
+<p align="left" style="display:flex; gap:8px;">
+  <a href="mailto:syavuya08@gmail.com" style="text-decoration:none; margin-right:4px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/siyavuyachagi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://facebook.com/siyavuyachagi" style="text-decoration:none; margin-right:4px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/siyavuyachagi" style="text-decoration:none; margin-right:4px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@siyavuyachagi" style="text-decoration:none; margin-right:4px;">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://x.com/siyavuyachagi" style="text-decoration:none; margin-right:4px;">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@siyavuyachagi" style="text-decoration:none; margin-right:4px;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
