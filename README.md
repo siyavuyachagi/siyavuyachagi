@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/github/stars/siyavuyachagi?style=flat-square&color=0ea5e9&label=STARS&affiliations=OWNER" alt="stars" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=siyavuyachagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
 ---
 
 ### 🛠️ Tech Stack
