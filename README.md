@@ -40,9 +40,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>"Write code that works. Then write code that lasts."</i>
-</p>
