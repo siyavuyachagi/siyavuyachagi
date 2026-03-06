@@ -6,10 +6,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=siyavuyachagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+CeeJay+%F0%9F%91%8B;Software+Developer+%F0%9F%87%BF%F0%9F%87%A6;C%23+%7C+Vue+%7C+Nuxt+Enthusiast;Building+cool+stuff+from+SA" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <b>Software Developer · South Africa 🇿🇦 · C# · Vue/Nuxt · ASP.NET Core</b>
 </p>
