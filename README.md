@@ -3,8 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=siyavuyachagi&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views" />
   <img src="https://img.shields.io/github/followers/siyavuyachagi?style=flat-square&color=0ea5e9&label=FOLLOWERS" alt="followers" />
   <img src="https://img.shields.io/github/stars/siyavuyachagi?style=flat-square&color=0ea5e9&label=STARS&affiliations=OWNER" alt="stars" />
-<img src="https://github-readme-stats.vercel.app/api?username=siyavuyachagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=siyavuyachagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 ---
 
