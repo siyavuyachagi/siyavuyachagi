@@ -36,7 +36,7 @@
   <a href="mailto:syavuya08@gmail.com" style="text-decoration:none; margin-right:4px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/siyavuyachagi" style="text-decoration:none; margin-right:4px;">
+  <a href="https://facebook.com/siyavuyachagi" target="_blank" style="text-decoration:none; margin-right:4px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/siyavuyachagi" style="text-decoration:none; margin-right:4px;">
