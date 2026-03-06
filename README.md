@@ -15,17 +15,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 Currently building full-stack web apps with **Nuxt 3** + **ASP.NET Core**
-- 🌱 Deepening my knowledge in **Microsoft Azure** & cloud-native architecture
-- 💬 Ask me about **C#**, **Blazor**, **Vue 3**, or **API design**
-- 🎓 Diploma in ICT — Durban University of Technology
-- 📫 Reach me at **syavuya08@gmail.com**
-- ⚡ Fun fact: I speak **IsiXhosa** & **English** — and I debug in both 😄
-
----
-
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
