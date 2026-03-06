@@ -58,16 +58,7 @@
 
 ---
 
-### 🏅 Certifications
-
-- 📜 National Senior Certificate — *Best Student in English & IsiXhosa*
-- 🐧 NDG Linux Unhatched
-- 🌐 Introduction to Packet Tracer
-- 💻 Frontend Web Development
-
----
-
-### 🤝 Connect With Me
+### 🤝 Let's connect
 
 <p align="left">
   <a href="mailto:syavuya08@gmail.com">
