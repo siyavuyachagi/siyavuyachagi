@@ -33,7 +33,7 @@
 
 ### 🤝 Let's connect
 <p align="left" style="display:flex; gap:8px;">
-  <a href="mailto:syavuya08@gmail.com" style="text-decoration:!none; margin-right:4px;">
+  <a href="mailto:syavuya08@gmail.com" style="text-decoration:none; margin-right:4px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://facebook.com/siyavuyachagi" style="text-decoration:none; margin-right:4px;">
