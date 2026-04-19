@@ -31,6 +31,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-<p align="left" style="color: red;">
-  Please Follow and Star any of my pinned repos
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF0000&width=435&lines=Please+Follow+and+Star+any+of+my+pinned+repos" alt="Typing SVG" />
 </p>
